@@ -1,0 +1,86 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Search Demo</h1>
+    <p>A simple demo of integrating Azure Search and Cosmos DB into an ASP.NET Core webapp.</p>
+</div>
+
+<div class="text-center">
+    <p>Enter your search term below...</p>
+    <input class="searchBox" type="text" id="searchBox" placeholder="Search bikes">
+    <input class="btn" type="submit" id="searchButton" value="Search" onclick="Search()">
+</div>
+
+<div class="row mt-3" id="results">
+</div>
+
+<!-- JQuery library 'autocomplete' queries our backend suggest method in the Search Controller to periodically update results -->
+<script>
+    $(function () {
+        $("#searchBox").autocomplete({
+            source: "/search/suggest?fuzzy=true&",
+            minLength: 3,
+            position: {
+                my: "left top",
+                at: "left-23 bottom+10"
+            }
+        });
+    });
+
+    function Search() {
+        var text = $("#searchBox").val();
+        var resultsHTML = '';
+        $.get('/search/search?term=' + text,
+            function (data) {
+                console.log(data);
+                if (data.results.length > 0) {
+                    for(var i = 0; i < data.results.length; i++){
+                        resultsHTML += '<div class="col-sm-6"><div class="card mt-3"><div class="card-body"><h5 class="card-title">' + data.results[i].document.manufacturerName + '</h5><div class="card-text" style="height: 200px; overflow: auto;">' + data.results[i].document.description + '</div><a href="#" class="btn btn-primary mt-3">View</a></div></div></div>' 
+                    }
+                }
+                else {
+                    resultsHTML = '<div class="text-center"><p>No results found</p></div>'
+                };
+                $("#results").html(resultsHTML);
+            });
+    }
+</script>
+
+<!-- Pure JavaScript without going through our C# backend would look a bit like this -->
+<!--
+<script>
+    $(function () {
+        $("#searchBox").autocomplete({
+            source: function (request, response) {
+            $.ajax({
+                type: "POST",
+                url: suggestUri,
+                dataType: "json",
+                headers: {
+                    "api-key": searchServiceApiKey,
+                    "Content-Type": "application/json"
+                },
+                data: JSON.stringify({
+                    top: 5,
+                    fuzzy: false,
+                    suggesterName: "suggester",
+                    search: request.term
+                }),
+                    success: function (data) {
+                        if (data.value && data.value.length > 0) {
+                            response(data.value.map(x => x["@@search.text"]));
+                        }
+                    }
+                });
+            },
+            minLength: 3,
+            position: {
+                my: "left top",
+                at: "left-23 bottom+10"
+            }
+        });
+    });
+</script>
+-->

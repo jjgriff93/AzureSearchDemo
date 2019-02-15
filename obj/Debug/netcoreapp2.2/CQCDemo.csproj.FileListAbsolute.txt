@@ -1,0 +1,60 @@
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.deps.json
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.runtimeconfig.json
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.runtimeconfig.dev.json
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.dll
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.pdb
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.Views.dll
+C:\Users\jamesgr\Desktop\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.Views.pdb
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csprojAssemblyReference.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorAssemblyInfo.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorAssemblyInfo.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.AssemblyInfoInputs.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.AssemblyInfo.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.TagHelpers.input.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.TagHelpers.output.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorCoreGenerate.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorTargetAssemblyInfo.cache
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorTargetAssemblyInfo.cs
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.Views.pdb
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.dll
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.pdb
+C:\Users\jamesgr\Desktop\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csproj.CopyComplete
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.deps.json
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.runtimeconfig.json
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.runtimeconfig.dev.json
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.Views.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\bin\Debug\netcoreapp2.2\SearchDemo.Views.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csprojAssemblyReference.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csproj.CoreCompileInputs.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorAssemblyInfo.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorAssemblyInfo.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.AssemblyInfoInputs.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.AssemblyInfo.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.TagHelpers.input.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.TagHelpers.output.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorCoreGenerate.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorTargetAssemblyInfo.cache
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.RazorTargetAssemblyInfo.cs
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.Views.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.dll
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.pdb
+C:\Users\jamesgr\OneDrive - Microsoft\Azure Development\Azure Search\SearchDemo\obj\Debug\netcoreapp2.2\SearchDemo.csproj.CopyComplete
